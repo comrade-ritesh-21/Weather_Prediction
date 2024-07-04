@@ -24,16 +24,20 @@ You can install the required libraries using pip:
 pip install pandas numpy scikit-learn
 
 #Usage
+
 1]Prepare the Dataset:
+
 Download the Weather_Data.csv file and place it in the project directory.
 
 2]Run the Script:
+
 Open a terminal or command prompt.
 Navigate to the project directory.
 Run the script using Python:
 python weather_prediction.py
 
 3]Provide User Input:
+
 The script will prompt you to enter the following weather features:
 Temperature (in Celsius)
 Dew Point Temperature (in Celsius)
@@ -44,12 +48,15 @@ Pressure (in kPa)
 After entering the values, the script will predict and display the weather condition.
 
 #Project Structure
+
 weather_prediction.py: The main script that includes data preprocessing, model training, and prediction logic.
 Weather_Data.csv: The dataset used for training the model (make sure to download and place this file in the project directory).
 
 
 #License
+
 This project is open-source and available under the MIT License.
 
 #Contact
+
 If you have any questions or suggestions, feel free to contact the project author.
